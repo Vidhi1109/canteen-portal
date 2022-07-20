@@ -1,4 +1,4 @@
-# MERN Stack Boilerplate
+# Canteen portal
 
 ## Installations
 
@@ -36,7 +36,7 @@ create-react-app name_of_app
 npm start
 ```
 
-## Running the boilerplate
+## Running the project
 
 * Run Mongo daemon:
 ```
