@@ -8,7 +8,7 @@ const Home = (props) => {
     setName("Dass TAs");
   }, []);
 
-  return <div style={{ textAlign: "center" }}>Happy Coding - {name}</div>;
+  return <div style={{ textAlign: "center" }}>Welcome to IIIT H Canteen Portal </div>;
 };
 
 export default Home;
